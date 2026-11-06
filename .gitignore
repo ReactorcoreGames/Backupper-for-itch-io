@@ -1,0 +1,21 @@
+# Personal, not part of the project
+config.json
+downloaded-backups/
+backup-run.log
+old wip/
+.claude/
+
+# Build output
+dist/
+build/
+*.spec
+
+trailer/*.mp4
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Work files
+*.part
