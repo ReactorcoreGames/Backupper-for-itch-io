@@ -1,5 +1,13 @@
 # Backupper for itch.io
 
+**Video:** https://www.youtube.com/watch?v=kZe8LkoGR3o
+
+**Get it here:** https://reactorcore.itch.io/backupper-for-itchio
+
+<img width="1600" height="900" alt="screenshot_1" src="https://github.com/user-attachments/assets/273dbfeb-5b2a-4f75-bae4-a1851425cd3f" />
+
+## About
+
 Saves an offline copy of any itch.io author's public page to your computer, so it can still be read and browsed if the live page changes or disappears.
 
 Open the program, enter an author's page, choose a folder and press Start Backup. You get the author's front page, every project page and their devlogs, each saved the way a browser's "Save Page As" does it: an `.html` file plus a folder holding its images and styling. The links between saved pages work offline.
